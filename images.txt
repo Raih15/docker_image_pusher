@@ -6,4 +6,3 @@ adguard/adguardhome
 metacubex/mihomo
 linuxserver/plex
 linuxserver/emby
-linuxserver/sonarr
